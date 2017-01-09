@@ -1,6 +1,7 @@
 # TestMyUnit
 
-Ever wanted to see what certain parts of your code do for certain inputs? Yeah, me too, so I wrote this plugin.
+I wanted to make it easier to test certain parts of your code, for example
+evaluating functions under certain inputs without ever leaving vim.
 
 ## Installation
 
